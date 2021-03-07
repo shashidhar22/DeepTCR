@@ -39,9 +39,9 @@ seaborn==0.11.0
 six==1.13.0
 sklearn==0.0
 tensorboard==2.4.0
-tensorboard-plugin-wit==1.7.0
-tensorflow-estimator==2.3.0
-tensorflow-gpu==2.3.1
+tensorboard-plugin-wit==1.8.0
+tensorflow-estimator==2.4.0
+tensorflow-gpu==2.4.0
 termcolor==1.1.0
 threadpoolctl==2.1.0
 umap-learn==0.3.10
